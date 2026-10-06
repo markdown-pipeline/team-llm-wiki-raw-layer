@@ -1,0 +1,61 @@
+title: "[Early access] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in **Markdown Pipeline** (private early access; Jira Cloud and local folders today).
+        **This discussion is public.** Please don't share confidential names or details.
+  - type: checkboxes
+    id: sources
+    attributes:
+      label: Where does your team's knowledge live?
+      options:
+        - label: Jira
+        - label: Confluence
+        - label: Notion
+        - label: Google Drive / Docs
+        - label: GitHub issues / PRs
+        - label: SharePoint / OneDrive / Teams
+        - label: Linear
+        - label: Other (tell us below)
+  - type: checkboxes
+    id: agents
+    attributes:
+      label: Which agents or tools would read the Markdown?
+      options:
+        - label: Claude Code
+        - label: Codex
+        - label: Cursor
+        - label: GitHub Copilot
+        - label: An LLM-wiki tool / Obsidian
+        - label: Our own agent / RAG pipeline
+        - label: None yet
+  - type: dropdown
+    id: today
+    attributes:
+      label: How do you feed your agents this knowledge today?
+      options:
+        - Copy-paste
+        - Manual exports
+        - Our own scripts / CLIs
+        - MCP servers
+        - A RAG pipeline
+        - Nothing yet
+    validations:
+      required: true
+  - type: dropdown
+    id: size
+    attributes:
+      label: Team size
+      options:
+        - Just me
+        - 2–10
+        - 11–50
+        - 51–200
+        - 200+
+  - type: textarea
+    id: goal
+    attributes:
+      label: What would you want your agent to answer that it can't today?
+      placeholder: "e.g. Why did we choose X? What's still open on project Y?"

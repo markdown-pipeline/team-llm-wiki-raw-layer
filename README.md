@@ -46,8 +46,8 @@ The hard part isn't the first export. It's **keeping it current**: edits, moved 
 We're building **Markdown Pipeline**. It syncs your tools into this kind of raw layer, in your own folder or GitHub repo, and keeps it current every time you sync: edits and **deletions**, with source info on every file and a preview before anything is written.
 
 - **It is not publicly available yet.** It works today for Jira Cloud and local folders, and we are opening it to a few teams first.
-- 👉 **[Tell us your setup](https://github.com/markdown-pipeline/team-llm-wiki-raw-layer/discussions)** to be considered for early access.
-- 👉 **[Vote for the next source](https://github.com/markdown-pipeline/team-llm-wiki-raw-layer/discussions)**. The votes decide what we build next.
+- 👉 **[Tell us your setup](https://github.com/markdown-pipeline/team-llm-wiki-raw-layer/discussions/new?category=early-access)** (a 1-minute form) to be considered for early access.
+- 👉 **[Vote for the next source](https://github.com/markdown-pipeline/team-llm-wiki-raw-layer/discussions/categories/polls)**. The votes decide what we build next.
 
 Everything in this repo is free and works without it.
 

@@ -134,4 +134,4 @@ Learned from teams that run incremental sync in production:
 
 ---
 
-*Prefer not to maintain the pipeline yourself? We're building **Markdown Pipeline** (private early access; Jira and local folders today). [Vote for the next source or ask for early access](https://github.com/markdown-pipeline/team-llm-wiki-raw-layer/discussions).*
+*Prefer not to maintain the pipeline yourself? We're building **Markdown Pipeline** (private early access; Jira and local folders today). [Ask for early access](https://github.com/markdown-pipeline/team-llm-wiki-raw-layer/discussions/new?category=early-access) or [vote for the next source](https://github.com/markdown-pipeline/team-llm-wiki-raw-layer/discussions/categories/polls).*
