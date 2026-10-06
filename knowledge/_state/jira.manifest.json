@@ -1,0 +1,12 @@
+{
+  "source": "jira",
+  "site": "https://acme.atlassian.net",
+  "projects": ["PAY"],
+  "cursor": "2026-10-06T06:00:00Z",
+  "last_full_listing": "2026-10-06T06:00:00Z",
+  "objects": {
+    "10412": {"key": "PAY-412", "path": "raw/jira/PAY/PAY-412.md", "content_hash": "sha256:EXAMPLE-412", "status": "active"},
+    "10415": {"key": "PAY-415", "path": "raw/jira/PAY/PAY-415.md", "content_hash": "sha256:EXAMPLE-415", "status": "active"},
+    "10398": {"key": "PAY-398", "path": "raw/jira/PAY/PAY-398.md", "content_hash": "sha256:EXAMPLE-398", "status": "deleted-at-source"}
+  }
+}
