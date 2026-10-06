@@ -47,7 +47,7 @@ We're building **Markdown Pipeline**. It syncs your tools into this kind of raw 
 
 - **It is not publicly available yet.** It works today for Jira Cloud and local folders, and we are opening it to a few teams first.
 - 👉 **[Tell us your setup](https://github.com/markdown-pipeline/team-llm-wiki-raw-layer/discussions/new?category=early-access)** (a 1-minute form) to be considered for early access.
-- 👉 **[Vote for the next source](https://github.com/markdown-pipeline/team-llm-wiki-raw-layer/discussions/categories/polls)**. The votes decide what we build next.
+- 👉 **[Vote for the next source](https://github.com/markdown-pipeline/team-llm-wiki-raw-layer/discussions/1)**. The votes decide what we build next.
 
 Everything in this repo is free and works without it.
 
